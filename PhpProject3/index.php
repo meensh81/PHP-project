@@ -11,8 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo 'New project3';
-            echo 'Hello World';
+            echo 'New project4';
         ?>
     </body>
 </html>
